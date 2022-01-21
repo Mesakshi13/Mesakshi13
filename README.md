@@ -3,8 +3,11 @@
 <h3 align="center">I am a 2nd year student at BIT Sindri. I am a Full Stack Web Developer.</h3>
 
 - 🔭 I’m currently working on **Professional Projects**
+- <img alt="coding" align="right" width="300" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 I’m currently learning **React.js.**
+
+
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Development.**
 
